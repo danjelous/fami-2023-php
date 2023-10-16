@@ -4,11 +4,11 @@ Um PHP lokal (am eigenen Rechner) ausführen zu können, brauchen wir einen Webs
 
 ## Windows
 
-XAMPP herunterladen https://www.apachefriends.org/de/index.html und Installation mit Standard-Einstellungen durchführen.
+XAMPP herunterladen [https://www.apachefriends.org/de/index.html](https://www.apachefriends.org/de/index.html) und Installation mit Standard-Einstellungen durchführen.
 
 ## MAC
 
-MAMP herunterladen https://www.mamp.info/de/downloads/ (keine PRO Version nötig) und Installation mit Standard-Einstellungen durchführen.
+MAMP herunterladen [https://www.mamp.info/de/downloads/](https://www.mamp.info/de/downloads/) (keine PRO Version nötig) und Installation mit Standard-Einstellungen durchführen.
 
 ## Webserver starten
 
