@@ -60,6 +60,9 @@
             ],
         ];
 
+        // Einzelne Werte im Array ausgeben
+        echo $student['grades']['midterm'] . '<br>';
+
         // echo $student; // Array's kann ich so nicht ausgeben
         // print_r($student); // Geht, aber nicht so gut
         // var_dump($student); // var_dump geht immer, aber Output etwas meh
